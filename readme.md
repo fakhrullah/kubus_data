@@ -15,8 +15,8 @@ Sila ikut kami di twitter [@kubus_app](https://twitter.com/kubus_app) untuk mend
 
 _Kemaskini 20 Mac 2022_
 
-|     | Subjek             | Jumlah keseluruhan | Dalam Kubus App | Jumlah soalan dilepaskan |
-| --- | ------------------ | ------------------ | --------------- |
+| -   | Subjek             | Jumlah keseluruhan | Dalam Kubus App | Jumlah soalan dilepaskan |
+| --- | ------------------ | ------------------ | --------------- | ------------------------ |
 | 1   | Sejarah            | 160                | 72              | 0                        |
 | 2   | Simpulan Bahasa    | 51                 | 51              | 0                        |
 | 3   | Biologi            | 115                | 9               | 0                        |
